@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Make awesome applications"
+    },
+    {
+      "id": 2,
+      "name": "Play squash"
+    },
+    {
+      "id": 3,
+      "name": "Deadlift"
+    },
+    {
+      "id": 4,
+      "name": "Squat"
+    },
+    {
+      "name": "Get running in vue app",
+      "id": 5
+    },
+    {
+      "name": "Go to X-Country meet",
+      "id": 6
+    }
+  ]
+}
